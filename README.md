@@ -14,7 +14,7 @@ events in the city could be detected via monitoring these data.</p>
 
 The app was developed as a Data Analysis Project using the [Bike Sharing Dataset (Source)](https://drive.google.com/file/d/1RaBmV6Q6FYWU4HWZs80Suqd7KQC34diQ/view?usp=sharing).
 
-<p>A live version of the application can be found on Streamlit Community Cloud.</p>
+A live version of the application can be found on [Streamlit Community Cloud](https://bike-sharing-analysis-kzbfdvhnuxfctzjfyjrjak.streamlit.app/).
 
 ## Installation
 <p>You can run this inside a virtual environment to make it easier to manage dependencies. I recommend using `conda` to create a new environment and install the required packages. You can create a new environment called `bike-sharing-analysis` by running:</p>
