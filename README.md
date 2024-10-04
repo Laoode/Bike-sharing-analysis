@@ -19,17 +19,23 @@ events in the city could be detected via monitoring these data.</p>
 ## Installation
 <p>You can run this inside a virtual environment to make it easier to manage dependencies. I recommend using `conda` to create a new environment and install the required packages. You can create a new environment called `bike-sharing-analysis` by running:</p>
 
-`conda create -n bike-sharing-analysis python=3.11` 
+```bash
+conda create -n bike-sharing-analysis python=3.11
+```
 <p>Then, activate the environment:</p>
 
-`conda activate bike-sharing-analysis`
-<p>To install the required packages, run:</p>
-
-`pip install -r requirements.txt`
+```bash
+conda activate bike-sharing-analysis
+```
+To install the required packages, run:
+```bash
+pip install -r requirements.txt
+```
 <p>This will install all the necessary dependencies, including Streamlit, pandas, seaborn, matplotlib</p>
 
 ## Usage
-<p>To start the app, simply run the following command:</p>
-
-`streamlit run app/main.py`
+To start the app, simply run the following command:
+```bash
+streamlit run app/main.py
+```
 <p>After running the command, Streamlit will automatically launch the app in your default web browser.</p>
