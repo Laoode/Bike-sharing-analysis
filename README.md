@@ -12,7 +12,7 @@ of travel, departure and arrival position is explicitly recorded in these system
 a virtual sensor network that can be used for sensing mobility in the city. Hence, it is expected that most of important
 events in the city could be detected via monitoring these data.</p>
 
-<p>The app was developed as a Data Analysis Project using the [Bike Sharing Dataset (Source)](https://drive.google.com/file/d/1RaBmV6Q6FYWU4HWZs80Suqd7KQC34diQ/view?usp=sharing).</p>
+The app was developed as a Data Analysis Project using the [Bike Sharing Dataset (Source)](https://drive.google.com/file/d/1RaBmV6Q6FYWU4HWZs80Suqd7KQC34diQ/view?usp=sharing).
 
 <p>A live version of the application can be found on Streamlit Community Cloud.</p>
 
